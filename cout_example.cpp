@@ -7,9 +7,13 @@ int main()
 
 	std::cout << width; // prints 5
 
+    std::cout << "\n"; 
+
 	width = 7; // change value stored in variable width to 7
-    
+
 	std::cout << width; // prints 7
+
+    std::cout << "\n";
 
 	return 0;
 }
